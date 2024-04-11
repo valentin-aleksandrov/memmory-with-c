@@ -3,6 +3,7 @@
 
 int main()
 {
+    // Todo -> add that example
     printf("Hello !\n");
     int size = 20;
     int *pointer = malloc(sizeof(int) * size);
